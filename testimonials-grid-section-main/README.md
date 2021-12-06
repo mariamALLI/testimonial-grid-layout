@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mariamALLI/testimonial-grid-layout.git)
-- Live Site URL: [Netlify](https://testimonial-grid-layout.netlify.app/)
+- Live Site URL: [Netlify](https://testimonial-grid-card.netlify.app/)
 
 ## My process
 - Created a main class grid container
